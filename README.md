@@ -1,5 +1,2 @@
-# FRC-5517-DeepSpace-Dual-Motors
-
-Sets up code for two motor controllers on the cargo manupulator
-
-Not 100% sure if it will work
+# DeepSpace2019
+Code for the 2019 FIRST Robotics Competition game, Deep Space
